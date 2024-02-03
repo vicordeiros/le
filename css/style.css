@@ -1,0 +1,47 @@
+html body{
+    background-color: rgb(242, 128, 198);
+    height: 1000px;
+}
+
+p{
+    text-align: center;
+}
+
+.container{
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.espaco{
+    height: 10%;
+    width: 100%;
+}
+
+.ft1{
+    width: 250px;
+    margin: auto;
+    display: block;
+}
+
+.espaco2{
+    height: 10%;
+}
+
+.espaco3{
+    height: 5%;
+}
+
+.espaco4{
+    height: 10%;
+}
+
+.espaco5{
+    height: 15%;
+}
